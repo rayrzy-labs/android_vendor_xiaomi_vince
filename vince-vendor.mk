@@ -1107,7 +1107,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     libgpustats \
-    libqmiservices \
     libsdm-disp-vndapis \
     libthermalclient \
     libts_detected_face_hal \
